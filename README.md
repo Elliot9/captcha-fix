@@ -44,7 +44,7 @@ Find the aliases key in config/app.php.
     ],
     
     
-##Example Usage
+## Example Usage
     
     {{captcha_audio_src()}} => return Audio Captcha src
     {{captcha}} => Captcha img
