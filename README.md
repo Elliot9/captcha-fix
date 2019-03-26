@@ -4,7 +4,7 @@ branch from mews for TTS
 
 Preview
 -------
-![img](https://imgur.com/PZe5UGm)
+![img](https://i.imgur.com/PZe5UGm.png)
 
 Download
 -------
