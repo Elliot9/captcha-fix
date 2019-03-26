@@ -10,7 +10,7 @@ Download
 -------
 Require this package with composer:
 
-composer require elliot9/captcha
+    composer require elliot9/captcha
 
 
 Usage
